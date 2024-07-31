@@ -185,12 +185,6 @@ form button:hover {
     .page {
         padding: 0 10px;
     }
-
-    #navigation {
-        width: auto;
-        align-items: center;
-    }
-
     #navigation li {
         margin: 10px 0;
     }
